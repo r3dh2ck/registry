@@ -1,5 +1,5 @@
 # locked
 
 keyn: # keyn.redhack.org
-	type: cname
-	value: hello
+    type: cname
+    value: hello
